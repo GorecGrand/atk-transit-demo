@@ -1,0 +1,7 @@
+{
+  "name": "ATK Transit OS",
+  "description": "Цифровая экосистема управления пассажирскими перевозками: от диспетчеризации до AI-аналитики рентабельности.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
